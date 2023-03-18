@@ -1,0 +1,3 @@
+﻿<items gfxroot="gfx/items/" version="1">
+    <passive id="1" name="Cheeky Pepper" gfx="cheeky_pepper_item.png" description="Spicy Surprise!" quality="1" cache="speed" />
+</items>
